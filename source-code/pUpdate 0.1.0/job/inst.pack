@@ -1,0 +1,7 @@
+@code=not_deletable
+version=0.1
+task_count=2
+task_2=.move|<Path>\update\test.txt|<Path>\empty
+task_3=.dowl|put-an-Url-here
+task_4=.delete|<Path>\empty\test.txt
+task_1=.unzip|<Path>\update\test.zip|<Path>\update\

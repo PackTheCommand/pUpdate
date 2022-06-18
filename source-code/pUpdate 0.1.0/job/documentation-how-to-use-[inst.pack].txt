@@ -1,0 +1,22 @@
+Usage of the 'inst.pack' file:
+
+
+    task_count=3   #defines the amount of operations(steps) to be done
+    task_1=           #says what to do in step-1 to be done
+    task_2=           #says what to do in step-2 to be done
+    task_3=           #...
+
+
+    Operations(Commands):
+
+        .move|location1|location2          #moves files from location1 to lokatoin2
+        .delete|file                       # deletes file/folder
+        .unzip|ZipFilePath|UnzipLocation   #Unzips file to UnzipLocation
+		.dowl|Url                          #downloads data from Url
+    Seperator :
+       the '|' is used to seperate arguments
+
+    <Path>:
+        gets replaiced by the direct path of the
+		
+	

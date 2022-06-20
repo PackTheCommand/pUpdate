@@ -17,6 +17,6 @@ Usage of the 'inst.pack' file:
        the '|' is used to seperate arguments
 
     <Path>:
-        gets replaiced by the direct path of the
+        gets replaiced by the direct path (the file is in)
 		
 	
